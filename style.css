@@ -1,0 +1,109 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-image: url("../img/man-2604149.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+.left{
+    display: inline-block;
+    position: absolute;
+    left: 30px;
+    top: 20px;
+    width: 320px;
+    height: 70px;
+  
+    text-align: center;
+}
+.immgg{
+    font-size: 20px;
+    color: rgb(252, 194, 5);
+    padding-top: 8px; 
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.mid{
+    color: white;
+    display: block;
+    width: 43%;
+    padding-left: 29px;
+    margin: 23px auto;
+    align-items: center;
+}
+.right{
+    color: white;
+    width: 209px;
+    height: 50px;
+    display: inline-block;
+    position: absolute;
+    right: 40px;
+    top: 27px;
+}
+.btn{
+    width: 100px;
+    height: 45px;
+    margin: 0px, 9px;
+}
+.navbar li{
+    display: inline-block;
+    font-size: 25px;
+}
+.navbar li a{
+    color: white;
+    text-decoration: none;
+    padding: 34px 23px;
+}
+.navbar li a:hover,.navbar li a.active{
+    text-decoration: underline;
+    color: grey;
+}
+.div1{
+    width: 15%%;
+    font-size: 25px;
+    padding-left: 10px;
+    color: white;
+    border-left: 4px solid #ff6319;
+    margin-top: 120px;
+    margin-left: 40px;
+}
+.div2{
+    width: 20%%;
+    color: white;
+    font-size: 40px;
+    font-weight : 450;
+    margin-left: 52px;
+}
+.div3{
+    width: 20%%;
+    color: white;
+    font-size: 35px;
+    font-weight: 450;
+    margin-left: 52px;
+}
+.div4{
+    margin-left: 40px;
+    margin-top: 40px;
+    width: 33%;
+    height: 280px;
+}
+.div5{
+    margin-top: 5px;
+    margin-left: 15px;
+}
+.form-group{
+    width: 60%;
+    margin-top: 23px;
+    margin-left: 17px;
+}
+.div7{
+    margin-left: 18px;
+}
+.addj{
+    width: 26%;
+}
+.imgg{
+    display: inline;   
+}
+.navbar1{
+    margin-left: 30px;
+}
